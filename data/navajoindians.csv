@@ -1,0 +1,5 @@
+count,cases,controls
+9,diabetes,diabetes
+37,diabetes,no diabetes
+16,no diabetes,diabetes
+82,no diabetes,no diabetes

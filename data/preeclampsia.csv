@@ -1,0 +1,5 @@
+count,exposure,outcome
+327,pre-eclampsia,hypertension
+215,pre-eclampsia,no hypertension
+76,no pre-eclampsia,hypertension
+201,no pre-eclampsia,no hypertension

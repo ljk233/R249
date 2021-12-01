@@ -1,0 +1,7 @@
+count,exposure,outcome
+30,slept on front,case
+24,slept on front,control
+76,slept on side,case
+241,slept on side,control
+82,slept on back,case
+509,slept on back,control

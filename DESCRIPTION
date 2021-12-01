@@ -1,0 +1,14 @@
+Package: R249
+Type: Package
+Title: An R Implementation of the Open University Module M249
+Version: 0.0.1
+Author: Liam Kelly <liamjkopenu@gmail.com>
+Maintainer: Liam Kelly <liamjkopenu@gmail.com>
+Description: Provides functionality in R to replicate the work in M249.
+  The package is under constant development, so should be considered unstable.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports: 
+    stats
