@@ -55,7 +55,6 @@ oddsratio <- function(obs, alpha = 0.05) {
 }
 
 
-
 #' @importFrom stats qnorm
 .or_confint <- function(obs, alpha = 0.05) {
   or <- .or_est(obs)
