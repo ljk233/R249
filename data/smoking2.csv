@@ -1,0 +1,11 @@
+count,dose,outcome
+32,50+,case
+13,50+,control
+136,25-49,case
+71,25-49,control
+196,15-24,case
+190,15-24,control
+250,5-14,case
+293,5-14,control
+35,0,case
+82,0,control
